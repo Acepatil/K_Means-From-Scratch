@@ -9,6 +9,7 @@ This project implements the K-Means clustering algorithm from scratch in Python,
 
 - `k_means.py`: Contains the implementation of the K-Means algorithm and supporting functions.
 - `README.md`: Documentation of the project and explanation of the implementation.
+- `LICENSE.md`: The MIT License for the project.
 
 ## Installation
 
